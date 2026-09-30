@@ -8,6 +8,7 @@ public class HelpDeskApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HelpDeskApiApplication.class, args);
+
     }
 
 }
